@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@shoelace-style/shoelace": "^2.5.2",
-    "wc-studio": "0.0.6"
+    "wc-studio": "0.0.7"
   }
 }
