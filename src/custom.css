@@ -1,1 +1,4 @@
 /** custom css here **/
+body {
+  background: var(--sl-color-neutral-50)
+}
